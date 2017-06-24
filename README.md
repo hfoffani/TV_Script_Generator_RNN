@@ -2,7 +2,6 @@
 
 A RNN that generates TV scripts.
 
-
 ### Instructions
 
 The project uses FloydHub http://floydhub.com to run the notebooks.
@@ -24,6 +23,3 @@ The project uses FloydHub http://floydhub.com to run the notebooks.
 6. Stop the project with
 
     sh stop-floyd.sh
-
-
-
